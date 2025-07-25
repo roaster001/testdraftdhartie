@@ -1523,6 +1523,17 @@
         </div>
       </header>
     </sticky-header>
+<style>@keyframes shake {
+  0%, 100% { transform: translateX(0); }
+  20%, 60% { transform: translateX(-5px); }
+  40%, 80% { transform: translateX(5px); }
+}
+
+.icon-cart-empty.shake {
+  animation: shake 15s;
+}
+</style>
+    
 
     <cart-notification>
       <div class="cart-notification-wrapper page-width">
