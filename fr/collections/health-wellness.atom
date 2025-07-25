@@ -1,0 +1,800 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="fr" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://almitrasustainables.com/fr/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://almitrasustainables.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://almitrasustainables.com/fr/collections/health-wellness.atom"/>
+  <title>Almitra Sustainables</title>
+  <updated>2023-10-20T13:14:22+05:30</updated>
+  <author>
+    <name>Almitra Sustainables</name>
+  </author>
+  <entry>
+    <id>https://almitrasustainables.com/fr/products/8378086883497</id>
+    <published>2023-10-20T13:14:22+05:30</published>
+    <updated>2023-10-20T13:14:22+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://almitrasustainables.com/fr/products/conscious-gifting-wild-bath"/>
+    <title>Don conscient - Bain sauvage</title>
+    <s:type></s:type>
+    <s:vendor>Almitra Sustainables</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0687/3654/9033/files/IMG_20231025_121310-2-scaled.jpg?v=1742206492"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fournisseur : </strong>Almitra Sustainables<br>
+        <strong>Type : </strong><br>
+        <strong>Prix : </strong>
+            1300.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> Pour ceux qui croient au bain comme un rituel.</p>
+<ul>
+<li> CE PANIER CADEAUX CONTIENT :<br>
+ Savons fabriqués à la main et traités à froid x 3<br>
+ Ces savons sont soigneusement élaborés pour créer l'alchimie essentielle des soins de la peau. Affinés pendant plus d'un mois, ces savons à base de beurre végétal indigène sont naturels ; nous parions que vous n'aurez pas besoin d'une crème hydratante après les avoir utilisés.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://almitrasustainables.com/fr/products/8378086883497</id>
+      <title>Default Title</title>
+      <s:price currency="INR">1300.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://almitrasustainables.com/fr/products/8378085474473</id>
+    <published>2020-12-16T00:05:16+05:30</published>
+    <updated>2020-12-16T00:05:16+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://almitrasustainables.com/fr/products/coconut-coir-pedicure-brush-self-care"/>
+    <title>Brosse de pédicure en fibre de coco - (Soins personnels)</title>
+    <s:type></s:type>
+    <s:vendor>Almitra Sustainables</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0687/3654/9033/files/2020-10-12-053331-1-e1611429001674.jpg?v=1742206502"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fournisseur : </strong>Almitra Sustainables<br>
+        <strong>Type : </strong><br>
+        <strong>Prix : </strong>
+            180.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> Présentation de la brosse à pédicure en fibre de coco !</p>
+ <p>Notre brosse pédicure en fibre de coco est un outil dérivé de la fibre naturelle de coco. En pédicure, l'exfoliation est essentielle pour éliminer les cellules mortes de vos pieds. Utiliser des poils en fibre naturelle favorisera une meilleure exfoliation et préviendra les toxines. Cela hydratera également la peau et la gardera saine.</p>
+<p> Avec un souci du détail, nous avons conservé des poils en fibre de coco doux et peignés à la main pour un soin optimal. Convient aussi bien pour une utilisation sur peau sèche que mouillée (elle mousse bien avec du savon). De conception ergonomique, notre brosse pédicure est légère et facile à utiliser.</p>
+<p> Cela peut être une solution idéale lorsque vous avez besoin d'un soin naturel et plein d'âme !</p>
+<p> Taille:<br>
+ Longueur du pinceau – 9 cm</p>
+<p> Largeur du pinceau – 2 cm<br>
+ Longueur de la fibre – 2,5 cm<br>
+ *Matériau – À base de plantes, Manche : bois | Poils : Fibre de coco<br>
+ *Entretien – Rincer à l’eau savonneuse douce et suspendre au soleil pour sécher.<br>
+ *Emballage – Nous garantissons que tous nos emballages sont respectueux de l'environnement</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://almitrasustainables.com/fr/products/8378085474473</id>
+      <title>Default Title</title>
+      <s:price currency="INR">180.00</s:price>
+      <s:sku>AS-PB-001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://almitrasustainables.com/fr/products/8378084589737</id>
+    <published>2020-11-08T00:46:31+05:30</published>
+    <updated>2020-11-08T00:46:31+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://almitrasustainables.com/fr/products/reusable-bamboo-straws-pack-of-4-with-cleaner"/>
+    <title>Pailles en bambou réutilisables (paquet de 4 avec nettoyant)</title>
+    <s:type></s:type>
+    <s:vendor>Almitra Sustainables</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0687/3654/9033/files/2020-07-29-05.21.23-1-1.jpg?v=1742206505"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fournisseur : </strong>Almitra Sustainables<br>
+        <strong>Type : </strong><br>
+        <strong>Prix : </strong>
+            285.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> Nos pailles en bambou sont naturelles, composées uniquement de bambou pur. Ces pailles réutilisables sont entièrement bio, exemptes de tout produit chimique et entièrement compostables.</p>
+ <p>Une paille minimaliste, qui offre une approche durable pour déguster vos boissons préférées.</p>
+<p> *Taille – 8 mm</p>
+<p> *Matériau - Bambou</p>
+<p> *Entretien – Lavez-le à l’aide d’un nettoyant pour pinceaux.</p>
+<p> *Durée de vie – Dure des années</p>
+<p> *Emballage – Nous garantissons que tous nos emballages sont respectueux de l’environnement</p>
+<p></p>
+<p> <strong>Contient</strong></p>
+<p> <strong>Pailles en bambou * 4</strong></p>
+<p> <strong>Nettoyeur de paille * 1</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://almitrasustainables.com/fr/products/8378084589737</id>
+      <title>Default Title</title>
+      <s:price currency="INR">285.00</s:price>
+      <s:sku>AS-RBS-005</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://almitrasustainables.com/fr/products/8378083967145</id>
+    <published>2020-11-08T00:29:36+05:30</published>
+    <updated>2020-11-08T00:29:36+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://almitrasustainables.com/fr/products/straw-cleaner-set-of-3"/>
+    <title>Nettoyeur de paille - Lot de 3 </title>
+    <s:type></s:type>
+    <s:vendor>Almitra Sustainables</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0687/3654/9033/files/2020-06-23-01.38.03-1-1.jpg?v=1742206506"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fournisseur : </strong>Almitra Sustainables<br>
+        <strong>Type : </strong><br>
+        <strong>Prix : </strong>
+            150.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div id=":ly" class="ii gt">
+<div id=":lx" class="a3s aXjCH ">
+ <div dir="auto">Autant une paille réutilisable est nécessaire, autant un nettoyant pour paille l'est aussi pour la garder propre et hygiénique. En gardant cela à l'esprit, nous avons conçu un nettoyant pour paille simple et naturel fabriqué à partir de fibres végétales, appelées sisal.</div>
+<div dir="auto"></div>
+<div dir="auto">
+<p> Ce nettoyant s'insère facilement dans vos pailles et préserve l'intérieur des taches et des bactéries. Sans plastique et sans produits chimiques.</p>
+<p> *Matériau – Poils à base de plantes.</p>
+</div>
+<div dir="auto"></div>
+<div dir="auto">
+<p> *Entretien – Nettoyer et sécher après chaque utilisation.</p>
+<p> *Emballage – Nous veillons à ce que tous nos emballages soient respectueux de l’environnement.</p>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://almitrasustainables.com/fr/products/8378083967145</id>
+      <title>Default Title</title>
+      <s:price currency="INR">150.00</s:price>
+      <s:sku>AS-STC-003</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://almitrasustainables.com/fr/products/8378083082409</id>
+    <published>2020-11-08T00:11:59+05:30</published>
+    <updated>2020-11-08T00:11:59+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://almitrasustainables.com/fr/products/neem-comb-pack-of-2-small-and-big"/>
+    <title>Peigne à Neem - Lot de 2 (petit et grand)</title>
+    <s:type></s:type>
+    <s:vendor>Almitra Sustainables</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0687/3654/9033/files/2019-10-18-07.04.52-1-scaled.jpg?v=1742206513"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fournisseur : </strong>Almitra Sustainables<br>
+        <strong>Type : </strong><br>
+        <strong>Prix : </strong>
+            450.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> Pour les cheveux, une bonne nutrition et de bons soins sont essentiels. C'est pourquoi nous vous proposons notre peigne en bois de neem, reconnu pour ses propriétés médicinales qui aident à lutter contre la chute des cheveux et à traiter les pellicules.<br>
+ Ses bords doux et son parfum enivrant de neem apaisent votre esprit pendant le peignage.</p>
+<p> Alors plongez dans une expérience de pleine conscience avec nos peignes en bois de Neem.</p>
+<p> -Avantages du peigne de Neem<br>
+ *Antimicrobien<br>
+ *Antistatique, empêche les frisottis et la casse des cheveux dus à l'électricité statique (comme avec les peignes en plastique).<br>
+ * Doux pour vos cheveux et votre cuir chevelu<br>
+ * antipelliculaire<br>
+ * Dure des années</p>
+<p> *Comprend –</p>
+<p> 1 * Petit peigne</p>
+<p> 1 * Grand peigne</p>
+<p> *Matériau – Bois de Neem</p>
+ <p>*Entretien – Assaisonner/humidifier avec de l’huile.</p>
+<p> *Jetable – Notre peigne Neem dure toute la vie.</p>
+<p> *Emballage – Nous garantissons que tous nos emballages sont respectueux de l’environnement</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://almitrasustainables.com/fr/products/8378083082409</id>
+      <title>Default Title</title>
+      <s:price currency="INR">450.00</s:price>
+      <s:sku>AS-NCSB-002</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://almitrasustainables.com/fr/products/8378082984105</id>
+    <published>2020-11-08T00:09:25+05:30</published>
+    <updated>2020-11-08T00:09:25+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://almitrasustainables.com/fr/products/bamboo-bristle-toothbrush-pack-of-2"/>
+    <title>Brosse à dents en poils de bambou (lot de 2)</title>
+    <s:type></s:type>
+    <s:vendor>Almitra Sustainables</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0687/3654/9033/files/Almitra_Sustainables_Bamboo_Toothbrush_Eco-Friendly_Biodegradable_Oral_Care_Pack_of_2.png?v=1747498132"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fournisseur : </strong>Almitra Sustainables<br>
+        <strong>Type : </strong><br>
+        <strong>Prix : </strong>
+            315.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Conçue de manière ergonomique pour maintenir votre hygiène bucco-dentaire, notre brosse à dents en bambou vise à éliminer l'utilisation de brosses à dents en plastique qui ont fait plus de mal que de bien à notre environnement.</p>
+<p> Entièrement fabriquée en bambou, aux propriétés antimicrobiennes, cette brosse à dents est végétale et compostable. Optez pour une brosse à dents en bambou.</p>
+<p> *Taille – Adulte (18,5 cm)</p>
+<p> *Approuvé par la FDA.</p>
+<p> *Matériau – À base de plantes</p>
+<p> *Entretien – Séchez-le après chaque utilisation et laissez-le aérer. Rangez-le dans un endroit bien ventilé. Changez-le tous les deux mois.</p>
+<p> *Élimination – une fois la brosse à dents usée, mettez-la dans un bac à compost ou elle peut être utilisée à diverses fins de nettoyage, ou faites preuve de créativité en plaçant par exemple un tuteur dans votre jardin pour identifier vos plantes.</p>
+<p> *Emballage – Nous garantissons que tous nos emballages sont respectueux de l'environnement</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bambootoothbrush</s:tag>
+    <s:tag>BiodegradableToothbrush</s:tag>
+    <s:tag>CompostableToothbrush</s:tag>
+    <s:tag>Ecofriendlytoothbrush</s:tag>
+    <s:tag>EcoToothbrush</s:tag>
+    <s:tag>NaturalToothbrush</s:tag>
+    <s:tag>SustainableToothbrush</s:tag>
+    <s:tag>Toothbrush</s:tag>
+    <s:tag>VeganToothbrush</s:tag>
+    <s:tag>ZeroWasteToothbrush</s:tag>
+    <s:variant>
+      <id>https://almitrasustainables.com/fr/products/8378082984105</id>
+      <title>Default Title</title>
+      <s:price currency="INR">315.00</s:price>
+      <s:sku>AS-BBT-002</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://almitrasustainables.com/fr/products/8378082951337</id>
+    <published>2020-11-08T00:08:55+05:30</published>
+    <updated>2020-11-08T00:08:55+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://almitrasustainables.com/fr/products/bamboo-toothbrush-charcoal-pack-of-2"/>
+    <title>Brosse à dents en bambou - Charbon (lot de 2)</title>
+    <s:type>Toothbrush</s:type>
+    <s:vendor>Almitra Sustainables</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0687/3654/9033/files/Plastic-Free_Bamboo_Charcoal_Toothbrushes_in_Glass_Eco_Bathroom_Setup.png?v=1747497132"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fournisseur : </strong>Almitra Sustainables<br>
+        <strong>Type : </strong>Toothbrush<br>
+        <strong>Prix : </strong>
+            335.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> Si vous recherchez une alternative plus écologique à une brosse à dents en plastique, rien de mieux qu'une brosse à dents en charbon de bambou.</p>
+<p> Pourquoi?</p>
+<p> 1) Le bambou est une ressource naturelle et est 100 % biodégradable</p>
+<p> 2) Le bambou possède des propriétés naturellement antimicrobiennes, plus durables que le plastique, ce qui en fait une excellente brosse à dents.</p>
+ <p>3) Les poils sont composés à 100 % de fibres de bambou et infusés de charbon actif. Ce dernier possède des propriétés antimicrobiennes qui aident à réduire la prolifération bactérienne et la plaque dentaire, éliminant ainsi les taches extrinsèques et préservant la propreté et la beauté de vos dents.</p>
+<p> 4) Approuvé par la FDA.</p>
+<p> *Taille – 18,5 cm</p>
+<p> *Matériau – À base de plantes, poils infusés de charbon actif.</p>
+<p> *Entretien – Séchez-le après chaque utilisation et laissez-le aérer. Rangez-le dans un endroit bien ventilé. Changez-le tous les deux mois.</p>
+<p> *Élimination – une fois la brosse à dents usée, vous pouvez retirer les poils et la jeter dans un bac à compost ou l’utiliser à diverses fins de nettoyage, ou faire preuve de créativité en plaçant par exemple un tuteur dans votre jardin pour identifier vos plantes.</p>
+<p> *Emballage – Nous garantissons que tous nos emballages sont respectueux de l’environnement</p>
+<p> Il a déclaré qu’il était désormais temps de passer à une alternative plus verte et plus saine.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Toothbrush</s:tag>
+    <s:variant>
+      <id>https://almitrasustainables.com/fr/products/8378082951337</id>
+      <title>Default Title</title>
+      <s:price currency="INR">335.00</s:price>
+      <s:sku>AS-BCT-002</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://almitrasustainables.com/fr/products/8378082656425</id>
+    <published>2020-11-08T00:00:24+05:30</published>
+    <updated>2020-11-08T00:00:24+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://almitrasustainables.com/fr/products/neem-wood-hair-comb-large"/>
+    <title>Peigne à cheveux en bois de neem - Grand</title>
+    <s:type></s:type>
+    <s:vendor>Almitra Sustainables</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0687/3654/9033/files/2019-09-12-04.59.25-1-scaled.jpg?v=1742206517"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fournisseur : </strong>Almitra Sustainables<br>
+        <strong>Type : </strong><br>
+        <strong>Prix : </strong>
+            260.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> Pour les cheveux, une bonne nutrition et de bons soins sont essentiels. C'est pourquoi nous vous proposons notre peigne en bois de neem, reconnu pour ses propriétés médicinales qui aident à lutter contre la chute des cheveux et à traiter les pellicules.<br>
+ Ses bords doux et son parfum enivrant de neem apaisent votre esprit pendant le peignage.</p>
+<p> Alors plongez dans une expérience de pleine conscience avec nos peignes en bois de Neem.</p>
+<p> -Avantages du peigne de Neem<br>
+ *Antimicrobien<br> 
+*Antistatique, empêche les frisottis et la casse des cheveux dus à l'électricité statique (comme avec les peignes en plastique).<br>
+ * Doux pour vos cheveux et votre cuir chevelu<br>
+ * antipelliculaire<br>
+ * Dure des années</p>
+<p></p>
+<p> *Matériau – Bois de Neem</p>
+<p> *Entretien – Assaisonner/humidifier avec de l’huile.</p>
+<p> *Jetable – Notre peigne Neem dure toute la vie.</p>
+<p> *Emballage – Nous garantissons que tous nos emballages sont respectueux de l’environnement</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://almitrasustainables.com/fr/products/8378082656425</id>
+      <title>Default Title</title>
+      <s:price currency="INR">260.00</s:price>
+      <s:sku>AS-NCL-003</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://almitrasustainables.com/fr/products/8378082492585</id>
+    <published>2020-11-07T23:56:32+05:30</published>
+    <updated>2020-11-07T23:56:32+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://almitrasustainables.com/fr/products/copper-tongue-cleaner-2"/>
+    <title>Gratte-langue en cuivre</title>
+    <s:type></s:type>
+    <s:vendor>Almitra Sustainables</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0687/3654/9033/files/C360_2019-08-19-18-55-25-227-scaled.jpg?v=1742206519"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fournisseur : </strong>Almitra Sustainables<br>
+        <strong>Type : </strong><br>
+        <strong>Prix : </strong>
+            220.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> Le nettoyage de votre langue fait-il partie de votre hygiène bucco-dentaire ?</p>
+<p> Sinon, laissez-nous vous parler un peu des avantages de l’utilisation d’un gratte-langue</p>
+<p> 1) ÉLIMINE LES BACTÉRIES car les débris et les bactéries se forment sur votre langue au fil du temps, ce qui peut perturber votre hygiène bucco-dentaire.</p>
+<p> 2) Une fois les bactéries éliminées, la langue acquiert un meilleur SENS DU GOÛT.</p>
+<p> 3) RÉDUIT LA MAUVAISE HALEINE</p>
+ <p>Voici donc l’outil qui vous permettra de commencer à prendre de meilleures soins bucco-dentaires : le nettoyeur de langue en cuivre.</p>
+<p> * Matériau – Cuivre</p>
+<p> *Entretien – Lavez-le à l’eau tiède, séchez-le et rangez-le dans un endroit sec.</p>
+<p> *Élimination – Recyclage</p>
+<p> *Emballage – Nous garantissons que tous nos emballages sont respectueux de l’environnement</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://almitrasustainables.com/fr/products/8378082492585</id>
+      <title>Default Title</title>
+      <s:price currency="INR">220.00</s:price>
+      <s:sku>AS-CTC-001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://almitrasustainables.com/fr/products/8378082164905</id>
+    <published>2020-11-07T23:46:34+05:30</published>
+    <updated>2020-11-07T23:46:34+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://almitrasustainables.com/fr/products/bamboo-cotton-buds"/>
+    <title>Cotons-tiges en bambou</title>
+    <s:type></s:type>
+    <s:vendor>Almitra Sustainables</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0687/3654/9033/files/2020-08-13-11.28.39-1-1.jpg?v=1742206522"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fournisseur : </strong>Almitra Sustainables<br>
+        <strong>Type : </strong><br>
+        <strong>Prix : </strong>
+            150.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nos écouteurs en coton sont fabriqués à partir de bambou et de coton, ce qui les rend entièrement biodégradables. C'est une alternative durable aux écouteurs traditionnels, qui nuisent à la nature.</p>
+<p> Chaque petit pas compte, soyez conscient de la Terre et faites un changement.</p>
+<p> * 50 pièces dans 1 boîte<br>
+ *Matériau – Bambou et coton<br>
+ *Emballage – Nous garantissons que tous nos emballages sont respectueux de l'environnement</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://almitrasustainables.com/fr/products/8378082164905</id>
+      <title>Default Title</title>
+      <s:price currency="INR">150.00</s:price>
+      <s:sku>AS-BEB-0001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://almitrasustainables.com/fr/products/8378081837225</id>
+    <published>2020-11-07T23:41:05+05:30</published>
+    <updated>2020-11-07T23:41:05+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://almitrasustainables.com/fr/products/neem-wood-hair-comb-small"/>
+    <title>Peigne à cheveux en bois de neem - Petit</title>
+    <s:type></s:type>
+    <s:vendor>Almitra Sustainables</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0687/3654/9033/files/2019-01-03-01.59.07-1-scaled.jpg?v=1742206524"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fournisseur : </strong>Almitra Sustainables<br>
+        <strong>Type : </strong><br>
+        <strong>Prix : </strong>
+            220.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> Pour les cheveux, une bonne nutrition et de bons soins sont essentiels. C'est pourquoi nous vous proposons notre peigne en bois de neem, reconnu pour ses propriétés médicinales qui aident à lutter contre la chute des cheveux et à traiter les pellicules.<br>
+ Ses bords doux et son parfum enivrant de neem apaisent votre esprit pendant le peignage.</p>
+ <p>Alors plongez dans une expérience de pleine conscience avec nos peignes en bois de Neem.</p>
+<p> -Avantages du peigne de Neem<br>
+ *Antimicrobien<br>
+ *Antistatique, empêche les frisottis et la casse des cheveux à cause de l'électricité statique (comme avec les peignes en plastique).<br>
+ * Doux pour vos cheveux et votre cuir chevelu<br>
+ * antipelliculaire<br>
+ * Dure des années</p>
+<p> *Taille -</p>
+<p> *Matériau – Bois de Neem</p>
+<p> *Entretien – Assaisonner/humidifier avec de l’huile.</p>
+<p> *Jetable – Notre peigne Neem dure toute la vie.</p>
+<p> *Emballage – Nous garantissons que tous nos emballages sont respectueux de l’environnement</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://almitrasustainables.com/fr/products/8378081837225</id>
+      <title>Default Title</title>
+      <s:price currency="INR">220.00</s:price>
+      <s:sku>AS-NCS-001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://almitrasustainables.com/fr/products/8378081804457</id>
+    <published>2020-11-07T23:40:07+05:30</published>
+    <updated>2020-11-07T23:40:07+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://almitrasustainables.com/fr/products/neem-wood-hair-comb-handle"/>
+    <title>Peigne à cheveux en bois de neem - Manche</title>
+    <s:type></s:type>
+    <s:vendor>Almitra Sustainables</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0687/3654/9033/files/2019-10-18-06.30.24-1-scaled.jpg?v=1742206524"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fournisseur : </strong>Almitra Sustainables<br>
+        <strong>Type : </strong><br>
+        <strong>Prix : </strong>
+            250.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pour les cheveux, une bonne nutrition et de bons soins sont essentiels. C'est pourquoi nous vous proposons notre peigne en bois de neem, reconnu pour ses propriétés médicinales qui aident à lutter contre la chute des cheveux et à traiter les pellicules.<br>
+ Ses bords doux et son parfum enivrant de neem apaisent votre esprit pendant le peignage.</p>
+<p> Alors plongez dans une expérience de pleine conscience avec nos peignes en bois de Neem.</p>
+<p> -Avantages du peigne de Neem<br>
+ *Antimicrobien<br>
+ *Antistatique, empêche les frisottis et la casse des cheveux dus à l'électricité statique (comme avec les peignes en plastique).<br>
+ * Doux pour vos cheveux et votre cuir chevelu<br>
+ * antipelliculaire<br>
+ * Dure des années</p>
+<p> *Taille -</p>
+<p> *Matériau – Bois de Neem</p>
+<p> *Entretien – Assaisonner/humidifier avec de l’huile.</p>
+<p> *Jetable – Notre peigne Neem dure toute la vie.</p>
+<p> *Emballage – Nous veillons à ce que tous nos emballages soient respectueux de l’environnement.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://almitrasustainables.com/fr/products/8378081804457</id>
+      <title>Default Title</title>
+      <s:price currency="INR">250.00</s:price>
+      <s:sku>AS-NCH-002</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://almitrasustainables.com/fr/products/8378081771689</id>
+    <published>2020-11-07T23:39:16+05:30</published>
+    <updated>2020-11-07T23:39:16+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://almitrasustainables.com/fr/products/bamboo-tongue-cleaner"/>
+    <title>.Gratte-langue en bambou</title>
+    <s:type></s:type>
+    <s:vendor>Almitra Sustainables</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0687/3654/9033/files/2019-01-03-01.59.09-1-scaled.jpg?v=1742206525"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fournisseur : </strong>Almitra Sustainables<br>
+        <strong>Type : </strong><br>
+        <strong>Prix : </strong>
+            120.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> Notre gratte-langue en bambou est conçu pour une meilleure hygiène bucco-dentaire. Fabriqué en bambou, il éloigne les bactéries responsables de la mauvaise haleine. Sa courbe plus large et plus douce contribue à une langue plus propre.</p>
+<p> Il s’agit d’un gratte-langue naturel qui ne contient aucun produit chimique et constitue une alternative durable pour réduire les déchets.</p>
+<p> *Taille – 13 cm</p>
+<p> *Matériau – Bambou</p>
+<p> *Entretien – Stérilisé à l'eau tiède</p>
+<p> *Jetable – Une fois usé, vous pouvez le composter.</p>
+<p> *Emballage – Nous garantissons que tous nos emballages sont respectueux de l’environnement</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://almitrasustainables.com/fr/products/8378081771689</id>
+      <title>Default Title</title>
+      <s:price currency="INR">120.00</s:price>
+      <s:sku>AS-BCT-001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://almitrasustainables.com/fr/products/8378081706153</id>
+    <published>2020-11-07T23:37:04+05:30</published>
+    <updated>2020-11-07T23:37:04+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://almitrasustainables.com/fr/products/coconut-fiber-dry-body-brush"/>
+    <title>.Fibre de coco - Brosse sèche pour le corps</title>
+    <s:type></s:type>
+    <s:vendor>Almitra Sustainables</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0687/3654/9033/files/Main-1.jpg?v=1742206525"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fournisseur : </strong>Almitra Sustainables<br>
+        <strong>Type : </strong><br>
+        <strong>Prix : </strong>
+            399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> Brosse sèche pour le corps</p>
+<p> La brosse sèche pour le corps Almitra Sustainables est une brosse thérapeutique pour le corps, utilisée pour préserver la santé de la peau. Elle est fabriquée en fibres de coco, naturellement antimicrobiennes, et possède un manche en bois facile à prendre en main.</p>
+ <p>Une brosse sèche pour le corps est souvent utilisée avant la douche pour donner à votre peau une apparence souple et éclatante.</p>
+<p> Voici comment le brossage à sec du corps aide</p>
+<p> 1) Il exfolie les cellules mortes de la peau.<br>
+ 2) Le brossage à sec du corps améliore la circulation sanguine.<br>
+ 3) Augmente la production de collagène.</p>
+<p> Éliminez toutes les toxines de la peau avec cette brosse sèche pour le corps.</p>
+<p></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://almitrasustainables.com/fr/products/8378081706153</id>
+      <title>Default Title</title>
+      <s:price currency="INR">399.00</s:price>
+      <s:sku>AS-DBB-001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://almitrasustainables.com/fr/products/8378081575081</id>
+    <published>2020-11-07T23:34:01+05:30</published>
+    <updated>2020-11-07T23:34:01+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://almitrasustainables.com/fr/products/bamboo-toothbrush-kids-pack-of-2"/>
+    <title>Brosse à dents en bambou pour enfants (lot de 2)</title>
+    <s:type></s:type>
+    <s:vendor>Almitra Sustainables</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0687/3654/9033/files/Eco-Friendly_Bamboo_Kids_Toothbrush_Twin_Pack_Almitra_Sustainables.png?v=1747498551"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fournisseur : </strong>Almitra Sustainables<br>
+        <strong>Type : </strong><br>
+        <strong>Prix : </strong>
+            315.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cette brosse à dents en bambou pour enfants est fabriquée à partir de bambou, une alternative durable et saine à une brosse à dents en plastique.</p>
+<p> Pourquoi une brosse à dents en bambou ?</p>
+<p> 1) Le bambou est une ressource naturelle et est 100 % biodégradable</p>
+<p> 2) Le bambou possède des propriétés naturellement antimicrobiennes, plus durables que le plastique, ce qui en fait une excellente brosse à dents.</p>
+<p> 3) Approuvé par la FDA.</p>
+<p> *Taille : 13 cm</p>
+<p> *Matériau : Manche en bambou, poils en fibre de bambou</p>
+<p> *Entretien – Séchez-le après chaque utilisation et laissez-le aérer. Rangez-le dans un endroit bien ventilé. Changez-le tous les deux mois.</p>
+<p> *Élimination – une fois la brosse à dents usée, vous pouvez la jeter dans un bac à compost ou l’utiliser à diverses fins de nettoyage, ou faire preuve de créativité en plaçant par exemple un tuteur dans votre jardin pour identifier vos plantes.</p>
+<p> *Emballage – Nous garantissons que tous nos emballages sont respectueux de l’environnement</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Kid Toothbrush</s:tag>
+    <s:variant>
+      <id>https://almitrasustainables.com/fr/products/8378081575081</id>
+      <title>Default Title</title>
+      <s:price currency="INR">315.00</s:price>
+      <s:sku>AS-BKT-0002</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://almitrasustainables.com/fr/products/8378081509545</id>
+    <published>2020-11-07T23:33:23+05:30</published>
+    <updated>2020-11-07T23:33:23+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://almitrasustainables.com/fr/products/loofah-sponge-natural-bathing-scrub-pack-of-3"/>
+    <title>Éponge luffa - Gommage de bain naturel (lot de 3)</title>
+    <s:type></s:type>
+    <s:vendor>Almitra Sustainables</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0687/3654/9033/files/Loofah_Sponge_Natural_Bathing_Scrub_Pack_of_3_Zero-Waste_Essentials.png?v=1749029639"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fournisseur : </strong>Almitra Sustainables<br>
+        <strong>Type : </strong><br>
+        <strong>Prix : </strong>
+            245.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> L'éponge luffa est issue d'une plante grimpante de la famille des concombres et des melons. C'est un gommage nettoyant naturel idéal pour exfolier la peau. Elle élimine l'excès de sébum et désincruste les pores, laissant la peau plus fraîche et plus lisse.</p>
+<p> Comment utiliser le Loofah ?</p>
+<p> 1) Humidifiez l'éponge loofah avec de l'eau tiède pour la ramollir, puis ajoutez du savon. Frottez-la délicatement sur votre peau en mouvements circulaires pour éliminer les cellules mortes.</p>
+<p> C'est ce qui fait de l'éponge Loofah un excellent exfoliant naturel.</p>
+<p> *Matériau – À base de plantes, Luffa</p>
+<p> *Entretien – Rincez-le après chaque utilisation et suspendez-le pour le faire sécher au soleil. Évitez de le faire sécher dans la salle de bain, où il risque de devenir humide et d'attirer les bactéries.</p>
+<p> *Élimination – mettez-le dans le compost</p>
+<p> *Emballage – Nous garantissons que tous nos emballages sont respectueux de l’environnement</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://almitrasustainables.com/fr/products/8378081509545</id>
+      <title>Default Title</title>
+      <s:price currency="INR">245.00</s:price>
+      <s:sku>AS-LBS-003</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://almitrasustainables.com/fr/products/8378081050793</id>
+    <published>2020-11-07T23:23:53+05:30</published>
+    <updated>2020-11-07T23:23:53+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://almitrasustainables.com/fr/products/bamboo-toothbrush-charcoal"/>
+    <title>Brosse à dents en bambou - Charbon</title>
+    <s:type></s:type>
+    <s:vendor>Almitra Sustainables</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0687/3654/9033/files/2019-09-18-07.28.31-1-scaled.jpg?v=1742206531"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fournisseur : </strong>Almitra Sustainables<br>
+        <strong>Type : </strong><br>
+        <strong>Prix : </strong>
+            170.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> Si vous recherchez une alternative plus écologique à une brosse à dents en plastique, rien de mieux qu'une brosse à dents en charbon de bambou.</p>
+<p> Pourquoi?</p>
+<p> 1) Le bambou est une ressource naturelle et est 100 % biodégradable</p>
+<p> 2) Le bambou possède des propriétés naturellement antimicrobiennes, plus durables que le plastique, ce qui en fait une excellente brosse à dents.</p>
+<p> 3) Les poils sont composés à 100 % de fibres de bambou et infusés de charbon actif. Ce dernier possède des propriétés antimicrobiennes qui aident à réduire la prolifération bactérienne et la plaque dentaire, éliminant ainsi les taches extrinsèques et préservant la propreté et la beauté de vos dents.</p>
+<p> 4) Approuvé par la FDA.</p>
+<p> *Taille – 18,5 cm</p>
+<p> *Matériau – À base de plantes, Poils : Infusés de charbon actif.</p>
+<p> *Entretien – Séchez-le après chaque utilisation et laissez-le aérer. Rangez-le dans un endroit bien ventilé. Changez-le tous les deux mois.</p>
+ <p>*Élimination – une fois la brosse à dents usée, vous pouvez retirer les poils et la jeter dans un bac à compost ou l’utiliser à diverses fins de nettoyage, ou faire preuve de créativité en plaçant par exemple un tuteur dans votre jardin pour identifier vos plantes.</p>
+<p> *Emballage – Nous garantissons que tous nos emballages sont respectueux de l’environnement</p>
+<p> Il a déclaré qu’il était désormais temps de passer à une alternative plus verte et plus saine.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://almitrasustainables.com/fr/products/8378081050793</id>
+      <title>Default Title</title>
+      <s:price currency="INR">170.00</s:price>
+      <s:sku>AS-BTB-0001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

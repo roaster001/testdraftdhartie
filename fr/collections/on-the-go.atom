@@ -1,0 +1,499 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="fr" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://almitrasustainables.com/fr/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://almitrasustainables.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://almitrasustainables.com/fr/collections/on-the-go.atom"/>
+  <title>Almitra Sustainables</title>
+  <updated>2020-11-08T00:46:31+05:30</updated>
+  <author>
+    <name>Almitra Sustainables</name>
+  </author>
+  <entry>
+    <id>https://almitrasustainables.com/fr/products/8378084589737</id>
+    <published>2020-11-08T00:46:31+05:30</published>
+    <updated>2020-11-08T00:46:31+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://almitrasustainables.com/fr/products/reusable-bamboo-straws-pack-of-4-with-cleaner"/>
+    <title>Pailles en bambou réutilisables (paquet de 4 avec nettoyant)</title>
+    <s:type></s:type>
+    <s:vendor>Almitra Sustainables</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0687/3654/9033/files/2020-07-29-05.21.23-1-1.jpg?v=1742206505"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fournisseur : </strong>Almitra Sustainables<br>
+        <strong>Type : </strong><br>
+        <strong>Prix : </strong>
+            285.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> Nos pailles en bambou sont naturelles, composées uniquement de bambou pur. Ces pailles réutilisables sont entièrement bio, exemptes de tout produit chimique et entièrement compostables.</p>
+ <p>Une paille minimaliste, qui offre une approche durable pour déguster vos boissons préférées.</p>
+<p> *Taille – 8 mm</p>
+<p> *Matériau - Bambou</p>
+<p> *Entretien – Lavez-le à l’aide d’un nettoyant pour pinceaux.</p>
+<p> *Durée de vie – Dure des années</p>
+<p> *Emballage – Nous garantissons que tous nos emballages sont respectueux de l’environnement</p>
+<p></p>
+<p> <strong>Contient</strong></p>
+<p> <strong>Pailles en bambou * 4</strong></p>
+<p> <strong>Nettoyeur de paille * 1</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://almitrasustainables.com/fr/products/8378084589737</id>
+      <title>Default Title</title>
+      <s:price currency="INR">285.00</s:price>
+      <s:sku>AS-RBS-005</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://almitrasustainables.com/fr/products/8378083770537</id>
+    <published>2020-11-08T00:27:25+05:30</published>
+    <updated>2020-11-08T00:27:25+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://almitrasustainables.com/fr/products/prithvi-handmade-ethnic-yoga-bag"/>
+    <title>.Prithvi - Sac de yoga ethnique fait main</title>
+    <s:type></s:type>
+    <s:vendor>Almitra Sustainables</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0687/3654/9033/files/IMG-20190819-WA0001.jpg?v=1742206507"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fournisseur : </strong>Almitra Sustainables<br>
+        <strong>Type : </strong><br>
+        <strong>Prix : </strong>
+            1200.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> Prithvi – Sac de yoga artisanal</p>
+ <p>Nos sacs de yoga s'inspirent des éléments de la Terre, source de vie et de vitalité. Tissés à la main à partir de tissus naturels traditionnels, ils sont effilochés à la main, préservant ainsi leur caractère sacré et leur beauté. Affichant style et audace, ces sacs vous permettront d'accéder à une énergie supérieure !</p>
+<p> Caractéristiques</p>
+<ul>
+<li> Fait à la main</li>
+<li> Effiloché par les mains</li>
+<li> Éthique</li>
+<li> A une poche latérale</li>
+</ul>
+<p></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://almitrasustainables.com/fr/products/8378083770537</id>
+      <title>Default Title</title>
+      <s:price currency="INR">1200.00</s:price>
+      <s:sku>AS-PVYB-004</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://almitrasustainables.com/fr/products/8378083737769</id>
+    <published>2020-11-08T00:27:22+05:30</published>
+    <updated>2020-11-08T00:27:22+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://almitrasustainables.com/fr/products/agni-handmade-ethnic-yoga-bag"/>
+    <title>.Agni - Sac de yoga ethnique fait main</title>
+    <s:type></s:type>
+    <s:vendor>Almitra Sustainables</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0687/3654/9033/files/IMG-20190819-WA0003.jpg?v=1742206508"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fournisseur : </strong>Almitra Sustainables<br>
+        <strong>Type : </strong><br>
+        <strong>Prix : </strong>
+            1200.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> Agni – Sac de yoga artisanal</p>
+<p> Nos sacs de yoga s'inspirent des éléments de la Terre, source de vie et de vitalité. Tissés à la main à partir de tissus naturels traditionnels, ils sont effilochés à la main, préservant ainsi leur caractère sacré et leur beauté. Affichant style et audace, ces sacs vous permettront d'accéder à une énergie supérieure !</p>
+<p> Caractéristiques</p>
+<ul>
+<li> Fait à la main</li>
+<li> Effiloché par les mains</li>
+<li> Éthique</li>
+<li> A une poche latérale</li>
+</ul>
+<p></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://almitrasustainables.com/fr/products/8378083737769</id>
+      <title>Default Title</title>
+      <s:price currency="INR">1200.00</s:price>
+      <s:sku>AS-AGYB-002</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://almitrasustainables.com/fr/products/8378083705001</id>
+    <published>2020-11-08T00:26:42+05:30</published>
+    <updated>2020-11-08T00:26:42+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://almitrasustainables.com/fr/products/samudra-handmade-ethnic-yoga-bag"/>
+    <title>.Samudra - Sac de yoga ethnique fait main</title>
+    <s:type></s:type>
+    <s:vendor>Almitra Sustainables</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0687/3654/9033/files/IMG-20190819-WA0000-1.jpg?v=1742206508"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fournisseur : </strong>Almitra Sustainables<br>
+        <strong>Type : </strong><br>
+        <strong>Prix : </strong>
+            1200.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> Samudra – Sac de yoga artisanal</p>
+ <p>Nos sacs de yoga s'inspirent des éléments de la Terre, source de vie et de vitalité. Tissés à la main à partir de tissus naturels traditionnels, ils sont effilochés à la main, préservant ainsi leur caractère sacré et leur beauté. Affichant style et audace, ces sacs vous permettront d'accéder à une énergie supérieure !</p>
+<p> Caractéristiques</p>
+<ul>
+<li> Fait à la main</li>
+<li> Effiloché par les mains</li>
+<li> Éthique</li>
+<li> A une poche latérale</li>
+</ul>
+<p></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://almitrasustainables.com/fr/products/8378083705001</id>
+      <title>Default Title</title>
+      <s:price currency="INR">1200.00</s:price>
+      <s:sku>AS-SMYB-001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://almitrasustainables.com/fr/products/8378083442857</id>
+    <published>2020-11-08T00:19:19+05:30</published>
+    <updated>2020-11-08T00:19:19+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://almitrasustainables.com/fr/products/coconut-bowl-cutlery-set-combo"/>
+    <title>Ensemble bol et couverts en noix de coco</title>
+    <s:type></s:type>
+    <s:vendor>Almitra Sustainables</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0687/3654/9033/files/Coconut-Bowl-Cutlery-Set-1.png?v=1742206510"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fournisseur : </strong>Almitra Sustainables<br>
+        <strong>Type : </strong><br>
+        <strong>Prix : </strong>
+            520.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> Un combo parfait pour les amateurs de noix de coco !</p>
+<p> Ces couverts rustiques et légers sont naturellement élégants et constituent un excellent compagnon pour vos déplacements ! En utilisant nos couverts en noix de coco, vous évitez une tonne de déchets plastiques à usage unique et contribuez ainsi à un environnement sain et sans plastique.</p>
+<p> Nos Coconut Bowls sont fabriqués à partir de noix de coco jetées après utilisation de leur jus et de leur chair. Les coques de noix de coco sont ensuite soigneusement nettoyées et découpées pour en faire des Coconut Bowls parfaits pour vos salades matinales, vos bols de riz et bien plus encore.</p>
+<p></p>
+<p> Contient</p>
+<p> 1 * Bol en noix de coco</p>
+<p> 1 × cuillère</p>
+<p> 1 × Fourchette</p>
+<p></p>
+<p> *Matériau – Noix de coco</p>
+<p> *Soins –</p>
+<p> -Lavage à la main avec de l'eau tiède et du savon doux.</p>
+<p> -Utilisez de l'huile de coco pour réhydrater vos couverts</p>
+<p> *Remarque – Ne pas utiliser au micro-ondes ni au lave-vaisselle.</p>
+<p></p>
+<p> *Élimination – Une fois usé, compostez-le.</p>
+<p> *Emballage – Nous garantissons que tous nos emballages sont respectueux de l’environnement</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://almitrasustainables.com/fr/products/8378083442857</id>
+      <title>Default Title</title>
+      <s:price currency="INR">520.00</s:price>
+      <s:sku>AS-CBC-002</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://almitrasustainables.com/fr/products/8378083410089</id>
+    <published>2020-11-08T00:18:17+05:30</published>
+    <updated>2020-11-08T00:18:17+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://almitrasustainables.com/fr/products/reusable-neem-wood-cutlery"/>
+    <title>Couverts réutilisables en bois de Neem</title>
+    <s:type></s:type>
+    <s:vendor>Almitra Sustainables</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0687/3654/9033/files/Main.png?v=1742206510"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fournisseur : </strong>Almitra Sustainables<br>
+        <strong>Type : </strong><br>
+        <strong>Prix : </strong>
+            250.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> Nos couverts en bois de neem sont une paire durable et parfaite à emporter en déplacement, à utiliser pour les déjeuners et pendant les voyages.</p>
+<p> Ces couverts rustiques et légers sont naturellement élégants et seront un excellent compagnon pour vos déplacements ! En utilisant nos couverts en Neem, vous éviterez une tonne de déchets plastiques à usage unique et contribuerez ainsi à un environnement sain et sans plastique.</p>
+<p> Le bois de neem est naturellement durable et résistant à l'eau, ce qui le rend idéal pour servir des plats chauds comme froids. Sa finition lisse et son design ergonomique garantissent un confort optimal.</p>
+<p> Contient</p>
+<p> 1 × cuillère</p>
+<p> 1 × Fourchette</p>
+<p> *Matériau – Bois de Neem</p>
+<p> *Soins –</p>
+<p> -Lavage à la main avec de l'eau tiède et du savon doux.</p>
+<p> -Utilisez de l'huile de coco pour réhydrater vos couverts</p>
+<p> Remarque – Ne pas utiliser au micro-ondes ni au lave-vaisselle.</p>
+<p></p>
+ <p>*Élimination – Une fois usé, compostez-le.</p>
+<p> *Emballage – Nous garantissons que tous nos emballages sont respectueux de l’environnement</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://almitrasustainables.com/fr/products/8378083410089</id>
+      <title>Default Title</title>
+      <s:price currency="INR">250.00</s:price>
+      <s:sku>AS-NWC-001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://almitrasustainables.com/fr/products/8378082754729</id>
+    <published>2020-11-08T00:04:18+05:30</published>
+    <updated>2020-11-08T00:04:18+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://almitrasustainables.com/fr/products/byo-travel-kit"/>
+    <title>. Apportez votre propre trousse de voyage</title>
+    <s:type></s:type>
+    <s:vendor>Almitra Sustainables</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0687/3654/9033/files/IMG_20210810_1718481.jpg?v=1742206516"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fournisseur : </strong>Almitra Sustainables<br>
+        <strong>Type : </strong><br>
+        <strong>Prix : </strong>
+            510.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> Apportez votre propre trousse de voyage</p>
+<p> Le kit de voyage BYO est un kit de voyage qui peut vous aider à transporter vos articles réutilisables et à être plus durable.</p>
+<p> Ce kit de voyage comprend</p>
+<p> 1 * BYO Emballage pour couverts</p>
+<p> 1 * paille en bambou</p>
+<p> 1* Ensemble de couverts en bambou (fourchette et cuillère)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://almitrasustainables.com/fr/products/8378082754729</id>
+      <title>Default Title</title>
+      <s:price currency="INR">510.00</s:price>
+      <s:sku>AS-BYOTK-001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://almitrasustainables.com/fr/products/8378080952489</id>
+    <published>2020-11-07T23:23:46+05:30</published>
+    <updated>2020-11-07T23:23:46+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://almitrasustainables.com/fr/products/byo-cutlery-wrap"/>
+    <title>Emportez votre propre emballage pour couverts</title>
+    <s:type></s:type>
+    <s:vendor>Almitra Sustainables</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0687/3654/9033/files/2019-09-12-03.22.54-1-scaled.jpg?v=1742206531"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fournisseur : </strong>Almitra Sustainables<br>
+        <strong>Type : </strong><br>
+        <strong>Prix : </strong>
+            320.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> Apportez votre propre emballage pour couverts est un moyen simple de transporter vos couverts et pailles réutilisables afin d'éviter tout plastique à usage unique, que vous soyez dans un café ou un fast-food où il est probable que l'on vous serve des couverts ou des pailles en plastique avec votre nourriture ou votre boisson.</p>
+<p> Il est spacieux avec de nombreux compartiments pour ranger tous vos couverts et pailles.</p>
+<p> Matière : Coton<br>
+ Emballage : Emballage écologique pour vos produits éco-responsables</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://almitrasustainables.com/fr/products/8378080952489</id>
+      <title>Default Title</title>
+      <s:price currency="INR">320.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://almitrasustainables.com/fr/products/8378080755881</id>
+    <published>2020-11-07T23:23:33+05:30</published>
+    <updated>2020-11-07T23:23:33+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://almitrasustainables.com/fr/products/stainless-steel-straw-straight-pack-of-2-with-1-cleaner"/>
+    <title>Pailles en acier inoxydable (droites) Lot de 2 avec 1 nettoyant</title>
+    <s:type></s:type>
+    <s:vendor>Almitra Sustainables</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0687/3654/9033/files/Reusable_Stainless_Steel_Straw_Set_with_Cleaner_and_Organic_Cotton_Pouch_Almitra_Sustainables.png?v=1747807511"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fournisseur : </strong>Almitra Sustainables<br>
+        <strong>Type : </strong><br>
+        <strong>Prix : </strong>
+            250.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> Fabriquées en acier inoxydable de qualité alimentaire, considéré comme l'acier inoxydable de qualité supérieure, avec des propriétés allant de la durabilité à la résistance à la corrosion sans BPA, ces pailles peuvent être utilisées encore et encore et durent jusqu'à toute une vie si elles sont correctement entretenues.</p>
+ <p>Facile à transporter, donc la prochaine fois que vous sortez, emportez simplement votre paille en acier inoxydable et lorsque vous avez envie de boire un verre, allez-y, car cette fois, vous n'avez pas à vous soucier de quoi que ce soit qui finisse à la décharge ou dans l'océan.</p>
+<p> *Taille – 6 mm * 21,5 cm (diamètre * longueur)</p>
+<p> *Matériau – acier inoxydable de qualité alimentaire</p>
+<p> *Entretien – Un simple rinçage après chaque utilisation le gardera parfaitement propre.</p>
+<p> *Durée de vie – Dure des années</p>
+<p> *Emballage – Nous garantissons que tous nos emballages sont respectueux de l’environnement</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://almitrasustainables.com/fr/products/8378080755881</id>
+      <title>Default Title</title>
+      <s:price currency="INR">250.00</s:price>
+      <s:sku>AS-SSS-002</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://almitrasustainables.com/fr/products/8378080559273</id>
+    <published>2020-11-07T23:23:27+05:30</published>
+    <updated>2020-11-07T23:23:27+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://almitrasustainables.com/fr/products/stainless-steel-straw-bent-pack-of-2-with-1-cleaner"/>
+    <title>Pailles en acier inoxydable (courbées) Lot de 2 avec 1 nettoyant</title>
+    <s:type>Straw set</s:type>
+    <s:vendor>Almitra Sustainables</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0687/3654/9033/files/Bent_Stainless_Steel_Straw_Set_with_Cleaning_Brush_Cotton_Pouch.png?v=1749027184"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fournisseur : </strong>Almitra Sustainables<br>
+        <strong>Type : </strong>Straw set<br>
+        <strong>Prix : </strong>
+            250.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> Fabriquées en acier inoxydable 304 (18/8) de qualité alimentaire, considéré comme l'acier inoxydable de qualité supérieure, doté de propriétés allant de la durabilité à la résistance à la corrosion sans BPA, ces pailles peuvent être utilisées encore et encore et durent jusqu'à toute une vie si elles sont correctement entretenues.</p>
+ <p>Facile à transporter, donc la prochaine fois que vous sortez, emportez simplement votre paille en acier inoxydable et lorsque vous avez envie de boire un verre, allez-y et vous n'aurez pas à vous soucier de quoi que ce soit qui finisse à la décharge ou dans l'océan.</p>
+<p> Il est livré avec une brosse nettoyante en fibre de coco dotée de poils en fibre de coco.</p>
+<p> *Taille – 66 mm x 21,5 cm (diamètre x longueur)</p>
+<p> *Matériau – Acier inoxydable 304 (18/8) de qualité alimentaire</p>
+<p> *Entretien – Un simple rinçage avec un nettoyant pour brosse en fibre de coco la gardera propre.</p>
+<p> *Durée de vie – Dure des années</p>
+<p> *Emballage – Nous garantissons que tous nos emballages sont respectueux de l’environnement</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://almitrasustainables.com/fr/products/8378080559273</id>
+      <title>Default Title</title>
+      <s:price currency="INR">250.00</s:price>
+      <s:sku>AS-SSB-002</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://almitrasustainables.com/fr/products/8378080428201</id>
+    <published>2020-11-07T23:23:23+05:30</published>
+    <updated>2020-11-07T23:23:23+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://almitrasustainables.com/fr/products/larona-tote-bag"/>
+    <title>Sac fourre-tout Larona</title>
+    <s:type></s:type>
+    <s:vendor>Almitra Sustainables</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0687/3654/9033/files/2019-01-08-01.42.31-1-scaled.jpg?v=1742206534"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fournisseur : </strong>Almitra Sustainables<br>
+        <strong>Type : </strong><br>
+        <strong>Prix : </strong>
+            450.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> Larona est un magnifique sac fourre-tout tissé à la main qui capture le spectre de couleurs jazzy d'un arc-en-ciel, c'est pourquoi on l'appelle un sac fourre-tout arc-en-ciel !</p>
+ <p>Un compagnon pratique, élégant et durable pour vos courses quotidiennes. Ce sac est doté d'une poche intérieure zippée pouvant servir à ranger vos clés, votre monnaie ou votre téléphone. Robuste et souple, il offre une excellente prise en main et un transport confortable.</p>
+<p> Ces sacs sont fabriqués par de petits groupes d'artistes et produisent un minimum de déchets. La conception et la couture sont réalisées de manière responsable pour éviter le gaspillage et optimiser au maximum. Transportez vos essentiels avec élégance et respect grâce à nos sacs cabas upcyclés.</p>
+<p> Taille – 38,1 cm h * 40,64 cm l</p>
+<p> Matière – 100 % coton</p>
+<p> Emballage – Nous garantissons que tous nos emballages sont respectueux de l’environnement</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://almitrasustainables.com/fr/products/8378080428201</id>
+      <title>Default Title</title>
+      <s:price currency="INR">450.00</s:price>
+      <s:sku>AS-LTB-001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

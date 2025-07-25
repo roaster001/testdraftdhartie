@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Under Construction</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body, html {
+      height: 100%;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background: linear-gradient(135deg, #ffe259, #ffa751);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      overflow: hidden;
+      position: relative;
+    }
+
+    .container {
+      text-align: center;
+      color: #333;
+      animation: fadeIn 1s ease-in-out;
+    }
+
+    .container h1 {
+      font-size: 3em;
+      margin-bottom: 10px;
+      animation: bounce 2s infinite;
+    }
+
+    .container p {
+      font-size: 1.2em;
+      margin-bottom: 30px;
+    }
+
+    .gear {
+      width: 80px;
+      height: 80px;
+      margin: 20px auto;
+      background: url('https://cdn-icons-png.flaticon.com/512/1404/1404945.png') no-repeat center;
+      background-size: contain;
+      animation: rotate 3s linear infinite;
+    }
+
+    .waves {
+      position: absolute;
+      bottom: 0;
+      width: 100%;
+      height: 150px;
+      background: url('https://svgshare.com/i/uYw.svg');
+      background-size: cover;
+      animation: waveAnim 10s linear infinite;
+    }
+
+    @keyframes rotate {
+      100% {
+        transform: rotate(360deg);
+      }
+    }
+
+    @keyframes bounce {
+      0%, 100% { transform: translateY(0); }
+      50% { transform: translateY(-10px); }
+    }
+
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(20px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+
+    @keyframes waveAnim {
+      0% { background-position-x: 0; }
+      100% { background-position-x: 1000px; }
+    }
+
+    .btn-back {
+      margin-top: 20px;
+      padding: 10px 25px;
+      background-color: #333;
+      color: #fff;
+      border: none;
+      border-radius: 30px;
+      font-size: 1em;
+      cursor: pointer;
+      transition: background 0.3s;
+    }
+
+    .btn-back:hover {
+      background-color: #000;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="container">
+    <div class="gear"></div>
+    <h1>Page Under Construction</h1>
+    <p>We’re working hard to bring this page to life. Please check back soon!</p>
+    <button class="btn-back" onclick="goBack()">Go Back</button>
+  </div>
+
+  <div class="waves"></div>
+
+  <script>
+    function goBack() {
+      window.history.back();
+    }
+  </script>
+
+</body>
+</html>
