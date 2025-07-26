@@ -69,7 +69,7 @@ const reminderInterval = setInterval(() => {
       clearInterval(reminderInterval);
     }
   }
-}, 22000);// 22 seconds
+}, 15000);// 22 seconds
 }
 
 );
