@@ -753,25 +753,25 @@
   <script data-cfasync='false' class='jdgm-script'>
     !function (e) {
       window.jdgm = window.jdgm || {}, jdgm.CDN_HOST = "https://cdnwidget.judge.me/",
-      jdgm.docReady = function (d) {
-        (e.attachEvent ? "complete" === e.readyState : "loading" !== e.readyState) ?
-        setTimeout(d, 0) : e.addEventListener("DOMContentLoaded", d)
-      }, jdgm.loadCSS = function (d, t, o, a) {
-        !o && jdgm.loadCSS.requestedUrls.indexOf(d) >= 0 || (jdgm.loadCSS.requestedUrls.push(d),
-          (a = e.createElement("link")).rel = "stylesheet", a.class = "jdgm-stylesheet", a.media = "nope!",
-          a.href = d, a.onload = function () { this.media = "all", t && setTimeout(t) }, e.body.appendChild(a))
-      },
-      jdgm.loadCSS.requestedUrls = [], jdgm.loadJS = function (e, d) {
-        var t = new XMLHttpRequest;
-        t.onreadystatechange = function () { 4 === t.readyState && (Function(t.response)(), d && d(t.response)) },
-          t.open("GET.html", e), t.send()
-      }, jdgm.docReady((function () {
-        (window.jdgmLoadCSS || e.querySelectorAll(
-          ".jdgm-widget, .jdgm-all-reviews-page").length > 0) && (jdgmSettings.widget_load_with_code_splitting ?
-            parseFloat(jdgmSettings.widget_version) >= 3 ? jdgm.loadCSS(jdgm.CDN_HOST + "widget_v3/base.css") :
-              jdgm.loadCSS(jdgm.CDN_HOST + "widget/base.css") : jdgm.loadCSS(jdgm.CDN_HOST + "shopify_v2.css"),
-            jdgm.loadJS(jdgm.CDN_HOST + "loader.js"))
-      }))
+        jdgm.docReady = function (d) {
+          (e.attachEvent ? "complete" === e.readyState : "loading" !== e.readyState) ?
+            setTimeout(d, 0) : e.addEventListener("DOMContentLoaded", d)
+        }, jdgm.loadCSS = function (d, t, o, a) {
+          !o && jdgm.loadCSS.requestedUrls.indexOf(d) >= 0 || (jdgm.loadCSS.requestedUrls.push(d),
+            (a = e.createElement("link")).rel = "stylesheet", a.class = "jdgm-stylesheet", a.media = "nope!",
+            a.href = d, a.onload = function () { this.media = "all", t && setTimeout(t) }, e.body.appendChild(a))
+        },
+        jdgm.loadCSS.requestedUrls = [], jdgm.loadJS = function (e, d) {
+          var t = new XMLHttpRequest;
+          t.onreadystatechange = function () { 4 === t.readyState && (Function(t.response)(), d && d(t.response)) },
+            t.open("GET.html", e), t.send()
+        }, jdgm.docReady((function () {
+          (window.jdgmLoadCSS || e.querySelectorAll(
+            ".jdgm-widget, .jdgm-all-reviews-page").length > 0) && (jdgmSettings.widget_load_with_code_splitting ?
+              parseFloat(jdgmSettings.widget_version) >= 3 ? jdgm.loadCSS(jdgm.CDN_HOST + "widget_v3/base.css") :
+                jdgm.loadCSS(jdgm.CDN_HOST + "widget/base.css") : jdgm.loadCSS(jdgm.CDN_HOST + "shopify_v2.css"),
+              jdgm.loadJS(jdgm.CDN_HOST + "loader.js"))
+        }))
     }(document);
   </script>
   <noscript>
@@ -1241,8 +1241,7 @@
                                     class="menu-drawer__menu-item link link--text list-menu__item focus-inset">
                                     Doormats
                                   </a></li>
-                                <li><a id="HeaderDrawer-shop-sustainable-personal-care"
-                                    href="../pages/progress.html"
+                                <li><a id="HeaderDrawer-shop-sustainable-personal-care" href="../pages/progress.html"
                                     class="menu-drawer__menu-item link link--text list-menu__item focus-inset">
                                     Flooring
                                   </a></li>
@@ -1269,15 +1268,9 @@
                   <div class="menu-drawer__utility-links"><a
                       href="https://shopify.com/68736549033/account?locale=en&amp;region_country=IN"
                       class="menu-drawer__account link focus-inset h5 medium-hide large-up-hide"
-                      rel="nofollow"><account-icon><span class="svg-wrapper">
-                        </span></account-icon>Log in</a>
-                    <a href="../cart.html" class="header__icon header__icon--cart link focus-inset" id="cart-icon-bubble">
+                      rel="nofollow"><account-icon>
 
-                      <span class="svg-wrapper"><svg xmlns="http://www.w3.org/2000/svg" fill="none"
-                          class="icon icon-cart-empty" viewBox="0 0 40 40">
-                          <path fill="currentColor" fill-rule="evenodd"
-                            d="M15.75 11.8h-3.16l-.77 11.6a5 5 0 0 0 4.99 5.34h7.38a5 5 0 0 0 4.99-5.33L28.4 11.8zm0 1h-2.22l-.71 10.67a4 4 0 0 0 3.99 4.27h7.38a4 4 0 0 0 4-4.27l-.72-10.67h-2.22v.63a4.75 4.75 0 1 1-9.5 0zm8.5 0h-7.5v.63a3.75 3.75 0 1 0 7.5 0z" />
-                        </svg>
+                      <span class="svg-wrapper">
                       </span>
 
                       <span class="visually-hidden">Cart</span></a>
@@ -1294,20 +1287,7 @@
                             </h2>
 
                             <div class="disclosure">
-                              <button type="button"
-                                class="disclosure__button localization-form__select localization-selector link link--text caption-large"
-                                aria-expanded="false" aria-controls="HeaderCountryMobile-country-results"
-                                aria-describedby="HeaderCountryMobileLabel">
-                                <span>India |
-                                  INR
-                                  ₹</span>
-                                <svg class="icon icon-caret" viewBox="0 0 10 6">
-                                  <path fill="currentColor" fill-rule="evenodd"
-                                    d="M9.354.646a.5.5 0 0 0-.708 0L5 4.293 1.354.646a.5.5 0 0 0-.708.708l4 4a.5.5 0 0 0 .708 0l4-4a.5.5 0 0 0 0-.708"
-                                    clip-rule="evenodd" />
-                                </svg>
-
-                              </button>
+                           
                               <div class="disclosure__list-wrapper country-selector" hidden>
                                 <div class="country-filter">
 
@@ -1339,476 +1319,7 @@
                                   </button>
                                 </div>
                                 <div id="sr-country-search-results" class="visually-hidden" aria-live="polite"></div>
-                                <div class="disclosure__list country-selector__list"
-                                  id="HeaderCountryMobile-country-results">
-
-                                  <ul role="list" class="list-unstyled countries">
-                                    <li class="disclosure__item" tabindex="-1">
-                                      <a class="link link--text disclosure__link caption-large focus-inset" href="#"
-                                        data-value="AU" id="Australia">
-                                        <span class="visibility-hidden"><svg xmlns="http://www.w3.org/2000/svg"
-                                            fill="none" class="icon icon-checkmark" viewBox="0 0 12 9">
-                                            <path fill="currentColor" fill-rule="evenodd"
-                                              d="M11.35.643a.5.5 0 0 1 .006.707l-6.77 6.886a.5.5 0 0 1-.719-.006L.638 4.845a.5.5 0 1 1 .724-.69l2.872 3.011 6.41-6.517a.5.5 0 0 1 .707-.006z"
-                                              clip-rule="evenodd" />
-                                          </svg>
-                                        </span>
-                                        <span class="country">Australia</span>
-                                        <span class="localization-form__currency motion-reduce hidden">
-                                          INR
-                                          ₹</span>
-                                      </a>
-                                    </li>
-                                    <li class="disclosure__item" tabindex="-1">
-                                      <a class="link link--text disclosure__link caption-large focus-inset" href="#"
-                                        data-value="AT" id="Austria">
-                                        <span class="visibility-hidden"><svg xmlns="http://www.w3.org/2000/svg"
-                                            fill="none" class="icon icon-checkmark" viewBox="0 0 12 9">
-                                            <path fill="currentColor" fill-rule="evenodd"
-                                              d="M11.35.643a.5.5 0 0 1 .006.707l-6.77 6.886a.5.5 0 0 1-.719-.006L.638 4.845a.5.5 0 1 1 .724-.69l2.872 3.011 6.41-6.517a.5.5 0 0 1 .707-.006z"
-                                              clip-rule="evenodd" />
-                                          </svg>
-                                        </span>
-                                        <span class="country">Austria</span>
-                                        <span class="localization-form__currency motion-reduce hidden">
-                                          INR
-                                          ₹</span>
-                                      </a>
-                                    </li>
-                                    <li class="disclosure__item" tabindex="-1">
-                                      <a class="link link--text disclosure__link caption-large focus-inset" href="#"
-                                        data-value="BE" id="Belgium">
-                                        <span class="visibility-hidden"><svg xmlns="http://www.w3.org/2000/svg"
-                                            fill="none" class="icon icon-checkmark" viewBox="0 0 12 9">
-                                            <path fill="currentColor" fill-rule="evenodd"
-                                              d="M11.35.643a.5.5 0 0 1 .006.707l-6.77 6.886a.5.5 0 0 1-.719-.006L.638 4.845a.5.5 0 1 1 .724-.69l2.872 3.011 6.41-6.517a.5.5 0 0 1 .707-.006z"
-                                              clip-rule="evenodd" />
-                                          </svg>
-                                        </span>
-                                        <span class="country">Belgium</span>
-                                        <span class="localization-form__currency motion-reduce hidden">
-                                          INR
-                                          ₹</span>
-                                      </a>
-                                    </li>
-                                    <li class="disclosure__item" tabindex="-1">
-                                      <a class="link link--text disclosure__link caption-large focus-inset" href="#"
-                                        data-value="CA" id="Canada">
-                                        <span class="visibility-hidden"><svg xmlns="http://www.w3.org/2000/svg"
-                                            fill="none" class="icon icon-checkmark" viewBox="0 0 12 9">
-                                            <path fill="currentColor" fill-rule="evenodd"
-                                              d="M11.35.643a.5.5 0 0 1 .006.707l-6.77 6.886a.5.5 0 0 1-.719-.006L.638 4.845a.5.5 0 1 1 .724-.69l2.872 3.011 6.41-6.517a.5.5 0 0 1 .707-.006z"
-                                              clip-rule="evenodd" />
-                                          </svg>
-                                        </span>
-                                        <span class="country">Canada</span>
-                                        <span class="localization-form__currency motion-reduce hidden">
-                                          INR
-                                          ₹</span>
-                                      </a>
-                                    </li>
-                                    <li class="disclosure__item" tabindex="-1">
-                                      <a class="link link--text disclosure__link caption-large focus-inset" href="#"
-                                        data-value="CZ" id="Czechia">
-                                        <span class="visibility-hidden"><svg xmlns="http://www.w3.org/2000/svg"
-                                            fill="none" class="icon icon-checkmark" viewBox="0 0 12 9">
-                                            <path fill="currentColor" fill-rule="evenodd"
-                                              d="M11.35.643a.5.5 0 0 1 .006.707l-6.77 6.886a.5.5 0 0 1-.719-.006L.638 4.845a.5.5 0 1 1 .724-.69l2.872 3.011 6.41-6.517a.5.5 0 0 1 .707-.006z"
-                                              clip-rule="evenodd" />
-                                          </svg>
-                                        </span>
-                                        <span class="country">Czechia</span>
-                                        <span class="localization-form__currency motion-reduce hidden">
-                                          INR
-                                          ₹</span>
-                                      </a>
-                                    </li>
-                                    <li class="disclosure__item" tabindex="-1">
-                                      <a class="link link--text disclosure__link caption-large focus-inset" href="#"
-                                        data-value="DK" id="Denmark">
-                                        <span class="visibility-hidden"><svg xmlns="http://www.w3.org/2000/svg"
-                                            fill="none" class="icon icon-checkmark" viewBox="0 0 12 9">
-                                            <path fill="currentColor" fill-rule="evenodd"
-                                              d="M11.35.643a.5.5 0 0 1 .006.707l-6.77 6.886a.5.5 0 0 1-.719-.006L.638 4.845a.5.5 0 1 1 .724-.69l2.872 3.011 6.41-6.517a.5.5 0 0 1 .707-.006z"
-                                              clip-rule="evenodd" />
-                                          </svg>
-                                        </span>
-                                        <span class="country">Denmark</span>
-                                        <span class="localization-form__currency motion-reduce hidden">
-                                          INR
-                                          ₹</span>
-                                      </a>
-                                    </li>
-                                    <li class="disclosure__item" tabindex="-1">
-                                      <a class="link link--text disclosure__link caption-large focus-inset" href="#"
-                                        data-value="FI" id="Finland">
-                                        <span class="visibility-hidden"><svg xmlns="http://www.w3.org/2000/svg"
-                                            fill="none" class="icon icon-checkmark" viewBox="0 0 12 9">
-                                            <path fill="currentColor" fill-rule="evenodd"
-                                              d="M11.35.643a.5.5 0 0 1 .006.707l-6.77 6.886a.5.5 0 0 1-.719-.006L.638 4.845a.5.5 0 1 1 .724-.69l2.872 3.011 6.41-6.517a.5.5 0 0 1 .707-.006z"
-                                              clip-rule="evenodd" />
-                                          </svg>
-                                        </span>
-                                        <span class="country">Finland</span>
-                                        <span class="localization-form__currency motion-reduce hidden">
-                                          INR
-                                          ₹</span>
-                                      </a>
-                                    </li>
-                                    <li class="disclosure__item" tabindex="-1">
-                                      <a class="link link--text disclosure__link caption-large focus-inset" href="#"
-                                        data-value="FR" id="France">
-                                        <span class="visibility-hidden"><svg xmlns="http://www.w3.org/2000/svg"
-                                            fill="none" class="icon icon-checkmark" viewBox="0 0 12 9">
-                                            <path fill="currentColor" fill-rule="evenodd"
-                                              d="M11.35.643a.5.5 0 0 1 .006.707l-6.77 6.886a.5.5 0 0 1-.719-.006L.638 4.845a.5.5 0 1 1 .724-.69l2.872 3.011 6.41-6.517a.5.5 0 0 1 .707-.006z"
-                                              clip-rule="evenodd" />
-                                          </svg>
-                                        </span>
-                                        <span class="country">France</span>
-                                        <span class="localization-form__currency motion-reduce hidden">
-                                          INR
-                                          ₹</span>
-                                      </a>
-                                    </li>
-                                    <li class="disclosure__item" tabindex="-1">
-                                      <a class="link link--text disclosure__link caption-large focus-inset" href="#"
-                                        data-value="DE" id="Germany">
-                                        <span class="visibility-hidden"><svg xmlns="http://www.w3.org/2000/svg"
-                                            fill="none" class="icon icon-checkmark" viewBox="0 0 12 9">
-                                            <path fill="currentColor" fill-rule="evenodd"
-                                              d="M11.35.643a.5.5 0 0 1 .006.707l-6.77 6.886a.5.5 0 0 1-.719-.006L.638 4.845a.5.5 0 1 1 .724-.69l2.872 3.011 6.41-6.517a.5.5 0 0 1 .707-.006z"
-                                              clip-rule="evenodd" />
-                                          </svg>
-                                        </span>
-                                        <span class="country">Germany</span>
-                                        <span class="localization-form__currency motion-reduce hidden">
-                                          INR
-                                          ₹</span>
-                                      </a>
-                                    </li>
-                                    <li class="disclosure__item" tabindex="-1">
-                                      <a class="link link--text disclosure__link caption-large focus-inset" href="#"
-                                        data-value="HK" id="Hong Kong SAR">
-                                        <span class="visibility-hidden"><svg xmlns="http://www.w3.org/2000/svg"
-                                            fill="none" class="icon icon-checkmark" viewBox="0 0 12 9">
-                                            <path fill="currentColor" fill-rule="evenodd"
-                                              d="M11.35.643a.5.5 0 0 1 .006.707l-6.77 6.886a.5.5 0 0 1-.719-.006L.638 4.845a.5.5 0 1 1 .724-.69l2.872 3.011 6.41-6.517a.5.5 0 0 1 .707-.006z"
-                                              clip-rule="evenodd" />
-                                          </svg>
-                                        </span>
-                                        <span class="country">Hong Kong SAR</span>
-                                        <span class="localization-form__currency motion-reduce hidden">
-                                          INR
-                                          ₹</span>
-                                      </a>
-                                    </li>
-                                    <li class="disclosure__item" tabindex="-1">
-                                      <a class="link link--text disclosure__link caption-large focus-inset" href="#"
-                                        aria-current="true" data-value="IN" id="India">
-                                        <span><svg xmlns="http://www.w3.org/2000/svg" fill="none"
-                                            class="icon icon-checkmark" viewBox="0 0 12 9">
-                                            <path fill="currentColor" fill-rule="evenodd"
-                                              d="M11.35.643a.5.5 0 0 1 .006.707l-6.77 6.886a.5.5 0 0 1-.719-.006L.638 4.845a.5.5 0 1 1 .724-.69l2.872 3.011 6.41-6.517a.5.5 0 0 1 .707-.006z"
-                                              clip-rule="evenodd" />
-                                          </svg>
-                                        </span>
-                                        <span class="country">India</span>
-                                        <span class="localization-form__currency motion-reduce hidden">
-                                          INR
-                                          ₹</span>
-                                      </a>
-                                    </li>
-                                    <li class="disclosure__item" tabindex="-1">
-                                      <a class="link link--text disclosure__link caption-large focus-inset" href="#"
-                                        data-value="IE" id="Ireland">
-                                        <span class="visibility-hidden"><svg xmlns="http://www.w3.org/2000/svg"
-                                            fill="none" class="icon icon-checkmark" viewBox="0 0 12 9">
-                                            <path fill="currentColor" fill-rule="evenodd"
-                                              d="M11.35.643a.5.5 0 0 1 .006.707l-6.77 6.886a.5.5 0 0 1-.719-.006L.638 4.845a.5.5 0 1 1 .724-.69l2.872 3.011 6.41-6.517a.5.5 0 0 1 .707-.006z"
-                                              clip-rule="evenodd" />
-                                          </svg>
-                                        </span>
-                                        <span class="country">Ireland</span>
-                                        <span class="localization-form__currency motion-reduce hidden">
-                                          INR
-                                          ₹</span>
-                                      </a>
-                                    </li>
-                                    <li class="disclosure__item" tabindex="-1">
-                                      <a class="link link--text disclosure__link caption-large focus-inset" href="#"
-                                        data-value="IL" id="Israel">
-                                        <span class="visibility-hidden"><svg xmlns="http://www.w3.org/2000/svg"
-                                            fill="none" class="icon icon-checkmark" viewBox="0 0 12 9">
-                                            <path fill="currentColor" fill-rule="evenodd"
-                                              d="M11.35.643a.5.5 0 0 1 .006.707l-6.77 6.886a.5.5 0 0 1-.719-.006L.638 4.845a.5.5 0 1 1 .724-.69l2.872 3.011 6.41-6.517a.5.5 0 0 1 .707-.006z"
-                                              clip-rule="evenodd" />
-                                          </svg>
-                                        </span>
-                                        <span class="country">Israel</span>
-                                        <span class="localization-form__currency motion-reduce hidden">
-                                          INR
-                                          ₹</span>
-                                      </a>
-                                    </li>
-                                    <li class="disclosure__item" tabindex="-1">
-                                      <a class="link link--text disclosure__link caption-large focus-inset" href="#"
-                                        data-value="IT" id="Italy">
-                                        <span class="visibility-hidden"><svg xmlns="http://www.w3.org/2000/svg"
-                                            fill="none" class="icon icon-checkmark" viewBox="0 0 12 9">
-                                            <path fill="currentColor" fill-rule="evenodd"
-                                              d="M11.35.643a.5.5 0 0 1 .006.707l-6.77 6.886a.5.5 0 0 1-.719-.006L.638 4.845a.5.5 0 1 1 .724-.69l2.872 3.011 6.41-6.517a.5.5 0 0 1 .707-.006z"
-                                              clip-rule="evenodd" />
-                                          </svg>
-                                        </span>
-                                        <span class="country">Italy</span>
-                                        <span class="localization-form__currency motion-reduce hidden">
-                                          INR
-                                          ₹</span>
-                                      </a>
-                                    </li>
-                                    <li class="disclosure__item" tabindex="-1">
-                                      <a class="link link--text disclosure__link caption-large focus-inset" href="#"
-                                        data-value="JP" id="Japan">
-                                        <span class="visibility-hidden"><svg xmlns="http://www.w3.org/2000/svg"
-                                            fill="none" class="icon icon-checkmark" viewBox="0 0 12 9">
-                                            <path fill="currentColor" fill-rule="evenodd"
-                                              d="M11.35.643a.5.5 0 0 1 .006.707l-6.77 6.886a.5.5 0 0 1-.719-.006L.638 4.845a.5.5 0 1 1 .724-.69l2.872 3.011 6.41-6.517a.5.5 0 0 1 .707-.006z"
-                                              clip-rule="evenodd" />
-                                          </svg>
-                                        </span>
-                                        <span class="country">Japan</span>
-                                        <span class="localization-form__currency motion-reduce hidden">
-                                          INR
-                                          ₹</span>
-                                      </a>
-                                    </li>
-                                    <li class="disclosure__item" tabindex="-1">
-                                      <a class="link link--text disclosure__link caption-large focus-inset" href="#"
-                                        data-value="MY" id="Malaysia">
-                                        <span class="visibility-hidden"><svg xmlns="http://www.w3.org/2000/svg"
-                                            fill="none" class="icon icon-checkmark" viewBox="0 0 12 9">
-                                            <path fill="currentColor" fill-rule="evenodd"
-                                              d="M11.35.643a.5.5 0 0 1 .006.707l-6.77 6.886a.5.5 0 0 1-.719-.006L.638 4.845a.5.5 0 1 1 .724-.69l2.872 3.011 6.41-6.517a.5.5 0 0 1 .707-.006z"
-                                              clip-rule="evenodd" />
-                                          </svg>
-                                        </span>
-                                        <span class="country">Malaysia</span>
-                                        <span class="localization-form__currency motion-reduce hidden">
-                                          INR
-                                          ₹</span>
-                                      </a>
-                                    </li>
-                                    <li class="disclosure__item" tabindex="-1">
-                                      <a class="link link--text disclosure__link caption-large focus-inset" href="#"
-                                        data-value="NL" id="Netherlands">
-                                        <span class="visibility-hidden"><svg xmlns="http://www.w3.org/2000/svg"
-                                            fill="none" class="icon icon-checkmark" viewBox="0 0 12 9">
-                                            <path fill="currentColor" fill-rule="evenodd"
-                                              d="M11.35.643a.5.5 0 0 1 .006.707l-6.77 6.886a.5.5 0 0 1-.719-.006L.638 4.845a.5.5 0 1 1 .724-.69l2.872 3.011 6.41-6.517a.5.5 0 0 1 .707-.006z"
-                                              clip-rule="evenodd" />
-                                          </svg>
-                                        </span>
-                                        <span class="country">Netherlands</span>
-                                        <span class="localization-form__currency motion-reduce hidden">
-                                          INR
-                                          ₹</span>
-                                      </a>
-                                    </li>
-                                    <li class="disclosure__item" tabindex="-1">
-                                      <a class="link link--text disclosure__link caption-large focus-inset" href="#"
-                                        data-value="NZ" id="New Zealand">
-                                        <span class="visibility-hidden"><svg xmlns="http://www.w3.org/2000/svg"
-                                            fill="none" class="icon icon-checkmark" viewBox="0 0 12 9">
-                                            <path fill="currentColor" fill-rule="evenodd"
-                                              d="M11.35.643a.5.5 0 0 1 .006.707l-6.77 6.886a.5.5 0 0 1-.719-.006L.638 4.845a.5.5 0 1 1 .724-.69l2.872 3.011 6.41-6.517a.5.5 0 0 1 .707-.006z"
-                                              clip-rule="evenodd" />
-                                          </svg>
-                                        </span>
-                                        <span class="country">New Zealand</span>
-                                        <span class="localization-form__currency motion-reduce hidden">
-                                          INR
-                                          ₹</span>
-                                      </a>
-                                    </li>
-                                    <li class="disclosure__item" tabindex="-1">
-                                      <a class="link link--text disclosure__link caption-large focus-inset" href="#"
-                                        data-value="NO" id="Norway">
-                                        <span class="visibility-hidden"><svg xmlns="http://www.w3.org/2000/svg"
-                                            fill="none" class="icon icon-checkmark" viewBox="0 0 12 9">
-                                            <path fill="currentColor" fill-rule="evenodd"
-                                              d="M11.35.643a.5.5 0 0 1 .006.707l-6.77 6.886a.5.5 0 0 1-.719-.006L.638 4.845a.5.5 0 1 1 .724-.69l2.872 3.011 6.41-6.517a.5.5 0 0 1 .707-.006z"
-                                              clip-rule="evenodd" />
-                                          </svg>
-                                        </span>
-                                        <span class="country">Norway</span>
-                                        <span class="localization-form__currency motion-reduce hidden">
-                                          INR
-                                          ₹</span>
-                                      </a>
-                                    </li>
-                                    <li class="disclosure__item" tabindex="-1">
-                                      <a class="link link--text disclosure__link caption-large focus-inset" href="#"
-                                        data-value="PL" id="Poland">
-                                        <span class="visibility-hidden"><svg xmlns="http://www.w3.org/2000/svg"
-                                            fill="none" class="icon icon-checkmark" viewBox="0 0 12 9">
-                                            <path fill="currentColor" fill-rule="evenodd"
-                                              d="M11.35.643a.5.5 0 0 1 .006.707l-6.77 6.886a.5.5 0 0 1-.719-.006L.638 4.845a.5.5 0 1 1 .724-.69l2.872 3.011 6.41-6.517a.5.5 0 0 1 .707-.006z"
-                                              clip-rule="evenodd" />
-                                          </svg>
-                                        </span>
-                                        <span class="country">Poland</span>
-                                        <span class="localization-form__currency motion-reduce hidden">
-                                          INR
-                                          ₹</span>
-                                      </a>
-                                    </li>
-                                    <li class="disclosure__item" tabindex="-1">
-                                      <a class="link link--text disclosure__link caption-large focus-inset" href="#"
-                                        data-value="PT" id="Portugal">
-                                        <span class="visibility-hidden"><svg xmlns="http://www.w3.org/2000/svg"
-                                            fill="none" class="icon icon-checkmark" viewBox="0 0 12 9">
-                                            <path fill="currentColor" fill-rule="evenodd"
-                                              d="M11.35.643a.5.5 0 0 1 .006.707l-6.77 6.886a.5.5 0 0 1-.719-.006L.638 4.845a.5.5 0 1 1 .724-.69l2.872 3.011 6.41-6.517a.5.5 0 0 1 .707-.006z"
-                                              clip-rule="evenodd" />
-                                          </svg>
-                                        </span>
-                                        <span class="country">Portugal</span>
-                                        <span class="localization-form__currency motion-reduce hidden">
-                                          INR
-                                          ₹</span>
-                                      </a>
-                                    </li>
-                                    <li class="disclosure__item" tabindex="-1">
-                                      <a class="link link--text disclosure__link caption-large focus-inset" href="#"
-                                        data-value="SG" id="Singapore">
-                                        <span class="visibility-hidden"><svg xmlns="http://www.w3.org/2000/svg"
-                                            fill="none" class="icon icon-checkmark" viewBox="0 0 12 9">
-                                            <path fill="currentColor" fill-rule="evenodd"
-                                              d="M11.35.643a.5.5 0 0 1 .006.707l-6.77 6.886a.5.5 0 0 1-.719-.006L.638 4.845a.5.5 0 1 1 .724-.69l2.872 3.011 6.41-6.517a.5.5 0 0 1 .707-.006z"
-                                              clip-rule="evenodd" />
-                                          </svg>
-                                        </span>
-                                        <span class="country">Singapore</span>
-                                        <span class="localization-form__currency motion-reduce hidden">
-                                          INR
-                                          ₹</span>
-                                      </a>
-                                    </li>
-                                    <li class="disclosure__item" tabindex="-1">
-                                      <a class="link link--text disclosure__link caption-large focus-inset" href="#"
-                                        data-value="KR" id="South Korea">
-                                        <span class="visibility-hidden"><svg xmlns="http://www.w3.org/2000/svg"
-                                            fill="none" class="icon icon-checkmark" viewBox="0 0 12 9">
-                                            <path fill="currentColor" fill-rule="evenodd"
-                                              d="M11.35.643a.5.5 0 0 1 .006.707l-6.77 6.886a.5.5 0 0 1-.719-.006L.638 4.845a.5.5 0 1 1 .724-.69l2.872 3.011 6.41-6.517a.5.5 0 0 1 .707-.006z"
-                                              clip-rule="evenodd" />
-                                          </svg>
-                                        </span>
-                                        <span class="country">South Korea</span>
-                                        <span class="localization-form__currency motion-reduce hidden">
-                                          INR
-                                          ₹</span>
-                                      </a>
-                                    </li>
-                                    <li class="disclosure__item" tabindex="-1">
-                                      <a class="link link--text disclosure__link caption-large focus-inset" href="#"
-                                        data-value="ES" id="Spain">
-                                        <span class="visibility-hidden"><svg xmlns="http://www.w3.org/2000/svg"
-                                            fill="none" class="icon icon-checkmark" viewBox="0 0 12 9">
-                                            <path fill="currentColor" fill-rule="evenodd"
-                                              d="M11.35.643a.5.5 0 0 1 .006.707l-6.77 6.886a.5.5 0 0 1-.719-.006L.638 4.845a.5.5 0 1 1 .724-.69l2.872 3.011 6.41-6.517a.5.5 0 0 1 .707-.006z"
-                                              clip-rule="evenodd" />
-                                          </svg>
-                                        </span>
-                                        <span class="country">Spain</span>
-                                        <span class="localization-form__currency motion-reduce hidden">
-                                          INR
-                                          ₹</span>
-                                      </a>
-                                    </li>
-                                    <li class="disclosure__item" tabindex="-1">
-                                      <a class="link link--text disclosure__link caption-large focus-inset" href="#"
-                                        data-value="SE" id="Sweden">
-                                        <span class="visibility-hidden"><svg xmlns="http://www.w3.org/2000/svg"
-                                            fill="none" class="icon icon-checkmark" viewBox="0 0 12 9">
-                                            <path fill="currentColor" fill-rule="evenodd"
-                                              d="M11.35.643a.5.5 0 0 1 .006.707l-6.77 6.886a.5.5 0 0 1-.719-.006L.638 4.845a.5.5 0 1 1 .724-.69l2.872 3.011 6.41-6.517a.5.5 0 0 1 .707-.006z"
-                                              clip-rule="evenodd" />
-                                          </svg>
-                                        </span>
-                                        <span class="country">Sweden</span>
-                                        <span class="localization-form__currency motion-reduce hidden">
-                                          INR
-                                          ₹</span>
-                                      </a>
-                                    </li>
-                                    <li class="disclosure__item" tabindex="-1">
-                                      <a class="link link--text disclosure__link caption-large focus-inset" href="#"
-                                        data-value="CH" id="Switzerland">
-                                        <span class="visibility-hidden"><svg xmlns="http://www.w3.org/2000/svg"
-                                            fill="none" class="icon icon-checkmark" viewBox="0 0 12 9">
-                                            <path fill="currentColor" fill-rule="evenodd"
-                                              d="M11.35.643a.5.5 0 0 1 .006.707l-6.77 6.886a.5.5 0 0 1-.719-.006L.638 4.845a.5.5 0 1 1 .724-.69l2.872 3.011 6.41-6.517a.5.5 0 0 1 .707-.006z"
-                                              clip-rule="evenodd" />
-                                          </svg>
-                                        </span>
-                                        <span class="country">Switzerland</span>
-                                        <span class="localization-form__currency motion-reduce hidden">
-                                          INR
-                                          ₹</span>
-                                      </a>
-                                    </li>
-                                    <li class="disclosure__item" tabindex="-1">
-                                      <a class="link link--text disclosure__link caption-large focus-inset" href="#"
-                                        data-value="AE" id="United Arab Emirates">
-                                        <span class="visibility-hidden"><svg xmlns="http://www.w3.org/2000/svg"
-                                            fill="none" class="icon icon-checkmark" viewBox="0 0 12 9">
-                                            <path fill="currentColor" fill-rule="evenodd"
-                                              d="M11.35.643a.5.5 0 0 1 .006.707l-6.77 6.886a.5.5 0 0 1-.719-.006L.638 4.845a.5.5 0 1 1 .724-.69l2.872 3.011 6.41-6.517a.5.5 0 0 1 .707-.006z"
-                                              clip-rule="evenodd" />
-                                          </svg>
-                                        </span>
-                                        <span class="country">United Arab Emirates</span>
-                                        <span class="localization-form__currency motion-reduce hidden">
-                                          INR
-                                          ₹</span>
-                                      </a>
-                                    </li>
-                                    <li class="disclosure__item" tabindex="-1">
-                                      <a class="link link--text disclosure__link caption-large focus-inset" href="#"
-                                        data-value="GB" id="United Kingdom">
-                                        <span class="visibility-hidden"><svg xmlns="http://www.w3.org/2000/svg"
-                                            fill="none" class="icon icon-checkmark" viewBox="0 0 12 9">
-                                            <path fill="currentColor" fill-rule="evenodd"
-                                              d="M11.35.643a.5.5 0 0 1 .006.707l-6.77 6.886a.5.5 0 0 1-.719-.006L.638 4.845a.5.5 0 1 1 .724-.69l2.872 3.011 6.41-6.517a.5.5 0 0 1 .707-.006z"
-                                              clip-rule="evenodd" />
-                                          </svg>
-                                        </span>
-                                        <span class="country">United Kingdom</span>
-                                        <span class="localization-form__currency motion-reduce hidden">
-                                          INR
-                                          ₹</span>
-                                      </a>
-                                    </li>
-                                    <li class="disclosure__item" tabindex="-1">
-                                      <a class="link link--text disclosure__link caption-large focus-inset" href="#"
-                                        data-value="US" id="United States">
-                                        <span class="visibility-hidden"><svg xmlns="http://www.w3.org/2000/svg"
-                                            fill="none" class="icon icon-checkmark" viewBox="0 0 12 9">
-                                            <path fill="currentColor" fill-rule="evenodd"
-                                              d="M11.35.643a.5.5 0 0 1 .006.707l-6.77 6.886a.5.5 0 0 1-.719-.006L.638 4.845a.5.5 0 1 1 .724-.69l2.872 3.011 6.41-6.517a.5.5 0 0 1 .707-.006z"
-                                              clip-rule="evenodd" />
-                                          </svg>
-                                        </span>
-                                        <span class="country">United States</span>
-                                        <span class="localization-form__currency motion-reduce hidden">
-                                          INR
-                                          ₹</span>
-                                      </a>
-                                    </li>
-                                  </ul>
-                                </div>
+                               
                               </div>
                               <div class="country-selector__overlay"></div>
                             </div>
@@ -1899,7 +1410,7 @@
                         clip-rule="evenodd" />
                     </svg>
                   </summary>
-                 <ul id="HeaderMenu-MenuList-2"
+                  <ul id="HeaderMenu-MenuList-2"
                     class="header__submenu list-menu list-menu--disclosure color-scheme-1 gradient caption-large motion-reduce global-settings-popup"
                     role="list" tabindex="-1">
                     <li><a id="HeaderMenu-shop-bathroom" href="../pages/progress.html"
@@ -1918,12 +1429,11 @@
                         class="header__menu-item list-menu__item link link--text focus-inset caption-large">
                         Doormats
                       </a></li>
-                    <li><a id="HeaderMenu-shop-sustainable-personal-care"
-                        href="../pages/progress.html"
+                    <li><a id="HeaderMenu-shop-sustainable-personal-care" href="../pages/progress.html"
                         class="header__menu-item list-menu__item link link--text focus-inset caption-large">
                         Flooring
                       </a></li>
-                    
+
                   </ul>
                 </details>
               </header-menu></li>
@@ -2209,7 +1719,7 @@
         }
       }
     </style>
-     <footer class="footer color-scheme-1 gradient section-sections--18038255845545__footer-padding">
+    <footer class="footer color-scheme-1 gradient section-sections--18038255845545__footer-padding">
 
 
       <ul class="list-unstyled list-social footer__list-social" role="list">
