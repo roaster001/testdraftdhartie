@@ -1266,18 +1266,7 @@
                         </a></li>
                     </ul>
                   </nav>
-                  <div class="menu-drawer__utility-links"><a href="https://shopify.com/68736549033/account?locale=en&amp;region_country=IN"
-            class="header__icon header__icon--account link focus-inset small-hide" rel="nofollow"><account-icon><span
-                class="svg-wrapper">
-              </span></account-icon><span class="visually-hidden">Log in</span>
-          </a><a href="../cart.html" class="header__icon header__icon--cart link focus-inset" id="cart-icon-bubble">
-            <a href="../cart.html" class="header__icon header__icon--cart link focus-inset" id="cart-icon-bubble">
-
-              <span class="svg-wrapper"><svg xmlns="http://www.w3.org/2000/svg" fill="none" class="icon icon-cart-empty"
-                  viewBox="0 0 40 40">
-                  <path fill="currentColor" fill-rule="evenodd"
-                    d="M15.75 11.8h-3.16l-.77 11.6a5 5 0 0 0 4.99 5.34h7.38a5 5 0 0 0 4.99-5.33L28.4 11.8zm0 1h-2.22l-.71 10.67a4 4 0 0 0 3.99 4.27h7.38a4 4 0 0 0 4-4.27l-.72-10.67h-2.22v.63a4.75 4.75 0 1 1-9.5 0zm8.5 0h-7.5v.63a3.75 3.75 0 1 0 7.5 0z" />
-                </svg>
+                  <div class="menu-drawer__utility-links">
               </span>
 
                       <span class="visually-hidden">Cart</span></a>
@@ -1730,6 +1719,34 @@
           </form>
         </div>
       </div>
+
+
+      <script>
+  document.addEventListener('DOMContentLoaded', () => {
+    const form = document.getElementById('ContactForm');
+
+    form.addEventListener('submit', function (e) {
+      e.preventDefault(); // Prevent actual form submission
+
+      const name = document.getElementById('ContactForm-name').value.trim();
+      const email = document.getElementById('ContactForm-email').value.trim();
+      const phone = document.getElementById('ContactForm-phone').value.trim();
+      const comment = document.getElementById('ContactForm-body').value.trim();
+
+      // Encode message to be URL safe
+      const message = encodeURIComponent(
+        `New Contact Enquiry:\n\nName: ${name}\nEmail: ${email}\nPhone: ${phone}\nComment: ${comment}`
+      );
+
+      // Replace this with your WhatsApp number
+      const whatsappNumber = '918208797320';
+      const whatsappURL = `https://wa.me/${whatsappNumber}?text=${message}`;
+
+      // Redirect user to WhatsApp
+      window.open(whatsappURL, '_blank');
+    });
+  });
+</script>
 
       <script>
         const nameInput = document.getElementById("ContactForm-name");
